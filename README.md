@@ -1,6 +1,6 @@
 # React Application Project Flight-widget
 
-[![FlightWidget](https://raw.githubusercontent.com/marciorbarcellos/flight-widget/main/public/Flight_widget.gif])(https://github.com/marciorbarcellos/flight-widget)
+[![FlightWidget](https://raw.githubusercontent.com/marciorbarcellos/flight-widget/main/public/Flight_widget.gif])](https://github.com/marciorbarcellos/flight-widget)
 
 ## Project Features
 Project created by Ania Kubow software developer from freeCodeCamp channel, a React app with a mini-backend using Node.js to communicate with a database hosted in the cloud.
